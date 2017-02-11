@@ -1,0 +1,5 @@
+S,This song is AMAZING,8.1,0.89,
+S,This song is MORE AMAZING,9.99999,0.99,
+B,Im a book!,12.5,12345.0,
+M,Ben is the best,5.0,12.0,
+M,Ben is even better,10.1,360.0,

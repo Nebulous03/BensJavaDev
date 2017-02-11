@@ -1,0 +1,31 @@
+package nebulous;
+
+public enum DataType {
+	
+	UNKNOWN,
+	
+	BYTE,		// 1
+	CHAR,		// 1
+	SHORT,		// 2
+	INT,		// 4
+	LONG,		// 8
+	FLOAT,		// 4
+	DOUBLE,		// 8
+	BOOLEAN,	// 1
+	STRING,
+	
+	OBJECT,
+	
+	ARRAY_BYTE,
+	ARRAY_CHAR,
+	ARRAY_SHORT,
+	ARRAY_INT,
+	ARRAY_LONG,
+	ARRAY_FLOAT,
+	ARRAY_DOUBLE,
+	ARRAY_BOOLEAN,
+	ARRAY_STRING,
+	
+	ARRAY_OBJECT
+	
+}
